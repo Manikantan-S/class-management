@@ -1,2 +1,5 @@
-# class-management
-This is the class management system made with frontend and backend using php and mysql as a part of dbms project 
+# class-management-starter-template
+
+This is the Starter Template for Class Management Application
+
+https://www.youtube.com/watch?v=xwMGdXHHO2U
